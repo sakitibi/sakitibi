@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>どうも〜12ninstudio<br>のさきちびでーす</h2>
+  <h2>どうも〜13ninstudio<br>のさきちびでーす</h2>
   <h3>運営中の物</h3>
   <h3>
     <a href="https://github.com/sakitibi/Minecraft-Werewolf_Quest-Mods-SKNewRoles">SKNewRoles</a>
@@ -14,6 +14,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,cpp,kotlin">
       <br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,unity,electron">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,unity,electron,react,nextjs">
     </a>
 </div>
