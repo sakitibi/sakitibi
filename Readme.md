@@ -3,9 +3,10 @@
   <h3>運営中の物</h3>
   <h3>
     <a href="https://github.com/sakitibi/Minecraft-Werewolf_Quest-Mods-SKNewRoles">SKNewRoles</a>
-    <a href="https://github.com/sakitibi/TrainBuildersWeb">TrainBuilders Web</a>
+    <a href="https://github.com/sakitibi/TrainBuildersWeb">TrainBuilders</a>
   </h3>
   <h3>
+    <a href="https://github.com/sakitibi/AsakuraWiki">あさクラWiki</a>
     <a href="https://github.com/sakitibi/auto-sumanai-dokkiri">すまないドッキリ半自動化</a>
   </h3>
 </div>
