@@ -2,7 +2,7 @@
   <h2>どうも〜13ninstudio<br>のさきちびでーす</h2>
   <h3>運営中の物</h3>
   <h3>
-    <a href="https://github.com/sakitibi/Minecraft-Werewolf_Quest-Mods-SKNewRoles">SKNewRoles</a>
+    <a href="https://github.com/sakitibi/SKNewRoles">SKNewRoles</a>
     <a href="https://github.com/sakitibi/TrainBuildersWeb">TrainBuilders</a>
   </h3>
   <h3>
