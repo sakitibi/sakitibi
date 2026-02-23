@@ -2,11 +2,7 @@
   <h2>どうも〜13ninstudio<br>のさきちびでーす</h2>
   <h3>運営中の物</h3>
   <h3>
-    <a href="https://github.com/sakitibi/SKNewRoles">SKNewRoles</a>
-  </h3>
-  <h3>
     <a href="https://github.com/sakitibi/AsakuraWiki">あさクラWiki</a>
-    <a href="https://github.com/sakitibi/auto-sumanai-dokkiri">すまないドッキリ半自動化</a>
   </h3>
   <h3>サービス終了したもの</h3>
   <h3>
