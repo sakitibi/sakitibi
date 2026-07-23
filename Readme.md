@@ -12,8 +12,8 @@
 <div align="center">
   <h2>できること</h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,go">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,rust">
       <br>
-      <img src="https://skillicons.dev/icons?i=vscode,react,nextjs,nuxt">
+      <img src="https://skillicons.dev/icons?i=vscode,react,nextjs,nuxt,tauri">
     </a>
 </div>
