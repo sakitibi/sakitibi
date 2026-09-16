@@ -4,6 +4,10 @@
   <h3>
     <a href="https://github.com/sakitibi/AsakuraWiki">あさクラWiki</a>
   </h3>
+  <h3>開発中の物</h3>
+  <h3>
+    <a href="https://github.com/sakitibi/SKNewRoles">SKNewRoles2</a>
+  </h3>
   <h3>サービス終了したもの</h3>
   <h3>
     <a href="https://github.com/sakitibi/TrainBuildersWeb">TrainBuilders</a>
